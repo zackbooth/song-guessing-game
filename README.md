@@ -1,6 +1,8 @@
 # Song Guessing Game
 A web-based game where players guess the song title based on generated images using OpenAI's DALL·E API.
 
+LINK: http://guessthatsong.link
+
 ## Features
 - Random song selection from a DynamoDB database
 - Image generation using DALL·E 3 based on song title, artist, and lyrics
