@@ -10,9 +10,7 @@ A web-based game where players guess the song title based on generated images us
 
 ## Tech Stack
 - HTML, CSS, JavaScript, Python
-- AWS Lambda
 - OpenAI DALL·E 3
-- DynamoDB
 - LocalStorage (for tracking wins/losses)
 
 ## AWS Integrations
