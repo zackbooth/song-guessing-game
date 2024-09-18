@@ -36,10 +36,7 @@ A web-based game where players guess the song title based on generated images us
 
 ## Visualizations
 Diagrams and flowcharts created using Excalidraw.
-
-
-
-
+![song_guessing_game_FC_240917](https://github.com/user-attachments/assets/b1b14702-8437-43af-b5ec-ae0da9719ab1)
 
 
 ---
