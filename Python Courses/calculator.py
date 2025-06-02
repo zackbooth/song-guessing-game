@@ -6,4 +6,4 @@ def square(n):
     return pow(n, 3)
 
 main()
-x
+
